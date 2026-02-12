@@ -1,11 +1,11 @@
 
 ---
 
-[[https://cybermap.kaspersky.com/]] - wirtualna mapa świata z włamaniami
+ [https://cybermap.kaspersky.com/]()- wirtualna mapa świata z włamaniami
 
 # Programy
 
-[[https://mobaxterm.mobatek.net/]] - ssh, zdalne łączenie się z serwerami
+[https://mobaxterm.mobatek.net/]() - ssh, zdalne łączenie się z serwerami
 
 # GITHUBy
 
@@ -21,14 +21,8 @@
 
 
 ## Wtyczki User Agent Switcher
-%% Wtyczki User Agent Switcher umożliwiają zmianę ciągu identyfikującego przeglądarkę internetową, znanego jako user agent. Ciąg ten jest częścią nagłówków HTTP wysyłanych przez przeglądarkę do serwera, informując o typie przeglądarki, systemie operacyjnym i innych szczegółach klienta. %%
-
-
-> [!Wtyczki User Agent Switcher umożliwiają zmianę ciągu identyfikującego przeglądarkę internetową, znanego jako user agent. Ciąg ten jest częścią nagłówków HTTP wysyłanych przez przeglądarkę do serwera, informując o typie przeglądarki, systemie operacyjnym i innych szczegółach klienta.] Wtyczki User Agent Switcher
-
 
 *Wtyczki User Agent Switcher umożliwiają zmianę ciągu identyfikującego przeglądarkę internetową, znanego jako user agent. Ciąg ten jest częścią nagłówków HTTP wysyłanych przez przeglądarkę do serwera, informując o typie przeglądarki, systemie operacyjnym i innych szczegółach klienta.*
-
 
 - [https://chromewebstore.google.com/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?pli=1]()
 - https://chromewebstore.google.com/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg
