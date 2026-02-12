@@ -1,7 +1,7 @@
 
 ---
 
- [https://cybermap.kaspersky.com/]()- wirtualna mapa świata z włamaniami
+ https://cybermap.kaspersky.com/- wirtualna mapa świata z włamaniami
 
 # Programy
 
