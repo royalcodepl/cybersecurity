@@ -2,6 +2,8 @@
 ---
 
  https://cybermap.kaspersky.com/ -  wirtualna mapa świata z włamaniami
+ https://livethreatmap.radware.com/ - wirtualna mapa świata z włamaniami
+ https://globalthreatmap.up.railway.app/
 
 # Programy
 
@@ -33,3 +35,20 @@ https://mobaxterm.mobatek.net/ - ssh, zdalne łączenie się z serwerami
 - https://useragentinfo.com
 - https://www.whatismybrowser.com
 - https://useragentstring.com
+
+---
+## Wtyczki Prywatność
+
+*Rozszerzenia dbające o nasze bezpieczeństwo.*
+- Privacy Badger - https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp
+- Location Guard - https://chromewebstore.google.com/detail/location-guard/cfohepagpmnodfdmjliccbbigdkfcgia
+- uBlock Origin Lite - https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh
+- uBlock Origin - https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+- Free VPN for Chrome https://chromewebstore.google.com/detail/darmowy-vpn-dla-chrome-vp/majdfhpaihoncoakbjgbdhglocklcgno
+- 
+---
+## Repozytoria OSINT
+
+- https://github.com/wddadk/OSINT-for-countries
+- https://github.com/9wind/OSINT-Poland?tab=readme-ov-file
+
