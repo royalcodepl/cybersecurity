@@ -45,10 +45,36 @@ https://mobaxterm.mobatek.net/ - ssh, zdalne łączenie się z serwerami
 - uBlock Origin Lite - https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh
 - uBlock Origin - https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
 - Free VPN for Chrome https://chromewebstore.google.com/detail/darmowy-vpn-dla-chrome-vp/majdfhpaihoncoakbjgbdhglocklcgno
-- 
+- Decentraleyes https://chromewebstore.google.com/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj
+- AdGuard https://adguard.com
+- BraveBrowser https://brave.com
+- Disconnect https://disconnect.me
+- DuckDuckGo Privacy Essentials  https://duckduckgo.com/app
+- Ghostery https://www.ghostery.com
+- HTTPS Everywhere https://www.eff.org/https-everywhere
+- NoScript https://noscript.net
+- PrivacyPossum https://github.com/cowlicks/privacypossum
+- PrivacyTools https://www.privacytools.io
+- Windscribe https://windscribe.com
+
 ---
 ## Repozytoria OSINT
 
 - https://github.com/wddadk/OSINT-for-countries
 - https://github.com/9wind/OSINT-Poland?tab=readme-ov-file
 
+## Wtyczki Sieć oraz IP
+*Czyli informację o domenach oraz sieci*
+
+- BuiltWith Technology Profiler https://chromewebstore.google.com/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn
+- Wappalyzer https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg
+- Mitaka https://chromewebstore.google.com/detail/mitaka/bfjbejmeoibbdpfdbmbacmefcbannnbg
+- Distill Web Monitor https://chromewebstore.google.com/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge
+- https://github.com/iamadamdev/bypass-paywalls-chrome
+- BuiltWith https://builtwith.com
+- BuiltWithTrends https://trends.builtwith.com
+- Ghostery https://www.ghostery.com
+- Netcraft https://www.netcraft.com
+- SimiliarTech https://www.similartech.com
+- VisualPing https://visualping.io
+- WhatRuns https://www.whatruns.com
