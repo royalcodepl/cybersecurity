@@ -23,3 +23,4 @@ show ip route
 ## Save the running-config to the startup-config.
 ```R1# copy running-config startup-config
 ```
+`R1#show running-config` - pokazuje ustawienia urządzenia 
