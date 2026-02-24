@@ -4,14 +4,28 @@
  https://cybermap.kaspersky.com/ -  wirtualna mapa świata z włamaniami
  https://livethreatmap.radware.com/ - wirtualna mapa świata z włamaniami
  https://globalthreatmap.up.railway.app/
+ https://bazaar.abuse.ch/ - baza wirusów
+ https://dehashed.com/ - to wyszukiwarka wycieków danych (tzw. _data breach search engine_). Jest to jedno z największych i najbardziej zaawansowanych narzędzi tego typu, obok popularnego _Have I Been Pwned_.
+https://malpedia.caad.fkie.fraunhofer.de/ - repozytorium wiedzy o złośliwym oprogramowaniu (malware)
+https://npcap.com/
 
+# Nauka
+https://www.atlassian.com/software/confluence
+
+# VPN 
+https://mullvad.net/pl
+https://protonvpn.com/
 # Programy
 
 https://mobaxterm.mobatek.net/ - ssh, zdalne łączenie się z serwerami
+https://distrowatch.com/ - informacje o linuxach
 
 # GITHUBy
 
 - https://github.com/brimdata/zui
+- https://github.com/notthehiddenwiki/NTHW
+- https://github.com/GyulyVGC/sniffnet
+- https://github.com/trustedsec/social-engineer-toolkit/
 
 # Instrukcje
 
@@ -21,7 +35,10 @@ https://mobaxterm.mobatek.net/ - ssh, zdalne łączenie się z serwerami
 - https://netlab.wsiz.pl/ - wirtualne laboratorium
 - https://start.me/p/Kg9y4z/osint-tools_aegis - linki koła naukowego AEGIS
 
+## Nauka Cybersecurity
 
+- https://account.hackthebox.com/login
+- 
 ## Wtyczki User Agent Switcher
 
 *Wtyczki User Agent Switcher umożliwiają zmianę ciągu identyfikującego przeglądarkę internetową, znanego jako user agent. Ciąg ten jest częścią nagłówków HTTP wysyłanych przez przeglądarkę do serwera, informując o typie przeglądarki, systemie operacyjnym i innych szczegółach klienta.*
@@ -78,3 +95,7 @@ https://mobaxterm.mobatek.net/ - ssh, zdalne łączenie się z serwerami
 - SimiliarTech https://www.similartech.com
 - VisualPing https://visualping.io
 - WhatRuns https://www.whatruns.com
+## OSiNT
+
+- https://platform.osintquest.pl/ 
+- 

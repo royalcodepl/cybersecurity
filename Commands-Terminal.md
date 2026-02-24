@@ -24,3 +24,11 @@ show ip route
 ```R1# copy running-config startup-config
 ```
 `R1#show running-config` - pokazuje ustawienia urządzenia 
+
+
+If you cannot ping but the device interfaces are up and IP addresses are correct, use the **show run**, **show ip ospf neighbor**, and **show ip route** commands to help identify routing protocol-related problems.
+
+
+**copy running-config startup-config**
+
+
