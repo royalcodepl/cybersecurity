@@ -4,3 +4,7 @@
 ## Kod instalacji w terminalu pod Apple
 
 curl -so wazuh-agent.pkg https://packages.wazuh.com/4.x/macos/wazuh-agent-4.9.2-1.pkg && sudo WAZUH_MANAGER='51.83.159.202' installer -pkg wazuh-agent.pkg -target /
+
+## Sprawdzenie statusu Wazuha
+
+`Get-Service -Name wazuh`

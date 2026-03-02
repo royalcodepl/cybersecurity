@@ -1,8 +1,33 @@
-
+	www.explainshell.com
 ---
 
 - `touch test.txt` -  utwórz nowy plik 
 - `echo "text" > plik.txt` - tworzy plik z tekstem "text"
 - `tree -L 1 -d /` - wyświetla drzewo plików poziom 1
+- echo $SHELL
+- sudo ru - aby wejść w root, wyjście przez exit
+- ls -la /etc - listuje katalog etc
+- pwd - pokazuje w jakim katalogu aktualnie się znajduje
+- ls -la - listuje pliki i katalogi
+- cd ..
+- cd ../..
+- cd /
+- cd ~
+- history
+- sudo cat /etc/shadow
+- ls --help 
+- man ping
+- apropos compres
+- find / -type d -name apache2
+- find / -type d -name apache2 2>/dev/null
+- find / -type f -size +20M 2>/dev/null
+- lockate rockyou.txt
+- which python3
+- wheris python3
+- sudo grep kali /etc/shadow
+- sudo grep -c nologin /etc/passwd
+- sudo grep -n kali /etc/passwd
+- ps aux
+- ps aux | grep kali
 - 
 

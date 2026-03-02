@@ -8,9 +8,11 @@
  https://dehashed.com/ - to wyszukiwarka wycieków danych (tzw. _data breach search engine_). Jest to jedno z największych i najbardziej zaawansowanych narzędzi tego typu, obok popularnego _Have I Been Pwned_.
 https://malpedia.caad.fkie.fraunhofer.de/ - repozytorium wiedzy o złośliwym oprogramowaniu (malware)
 https://npcap.com/
+https://explainshell.com/
 
 # Nauka
 https://www.atlassian.com/software/confluence
+https://colab.research.google.com/
 
 # VPN 
 https://mullvad.net/pl
